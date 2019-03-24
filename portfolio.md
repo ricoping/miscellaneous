@@ -84,7 +84,7 @@
   - Twitter認証で登録できます
   - URL→http://140.227.227.5/learn/
   - 紹介動画→https://twitter.com/rcpn_9/status/1099919186753507328
-  - 2. →https://twitter.com/rcpn_9/status/1099920097458569216
+  - 2.→https://twitter.com/rcpn_9/status/1099920097458569216
   
 - <strong>Twilyco</strong>
   - Django, CSS, Javascript
