@@ -63,5 +63,8 @@
   - コード→https://github.com/ricoping/ricoping-ML/blob/master/jojo_clustering.py
    
 ### Web系
+- Django, Vue.jsを用いたモダンなウェブデザインサイト
+  - http://140.227.227.5/learn/hello
+
 
 ### ユーティリティ
