@@ -109,3 +109,8 @@
 - <strong>まとめサイト記事作成自動化ツール(Twitterまとめ)</strong>
   - 紹介動画→https://twitter.com/rcpn_9/status/1099704181265289216
   
+  
+## 最近読んだ本
+ - 集合知プログラミング
+ - PythonとKerasによるディープラーニング
+ - ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装
