@@ -87,7 +87,7 @@
   - クローラーにはアニーリング法の考え方を採用
   - http://140.227.224.71/tw/politics/1
   
-- <strong>Django, Ajaxを用いたチャット
+- <strong>Django, Vue.js, Ajaxを用いたチャット
   - http://140.227.227.5/todo/chat
 
 
