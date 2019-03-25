@@ -105,6 +105,7 @@
   
   
 ## 最近読んだ本
+ - Hands-On Machine Learning with Scikit-Learn and TensorFlow
  - 集合知プログラミング
  - PythonとKerasによるディープラーニング
  - ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装
