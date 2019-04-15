@@ -58,8 +58,8 @@
   - コード→https://github.com/ricoping/ricoping-ML/blob/master/news_clustering.py
   - 行が近いほど類似するニュース
   
-- <strong>k近傍法</strong>
-  - ジョジョのスタンドのステータス（パワー、スピード、防御力、耐久力、技、応用力）のデータを使って、スタンドをk近傍法（k=3）で分類
+- <strong>k平均法</strong>
+  - ジョジョのスタンドのステータス（パワー、スピード、防御力、耐久力、技、応用力）のデータを使って、スタンドをk平均法（k=3）で分類
   - python
   - 結果→https://raw.githubusercontent.com/ricoping/ricoping-ML/master/jojo_clustering_output.txt
   - コード→https://github.com/ricoping/ricoping-ML/blob/master/jojo_clustering.py
