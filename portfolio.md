@@ -3,6 +3,14 @@
 - 希望職種:
   - データサイエンティスト、データ分析、機械学習に関わるエンジニア
   - Webプログラマー
+  
+## 大学での制作物
+寄付制を用いた漫画投稿サイト（2014, PHP, MySQL, Apache, VirtualBox)
+  
+## 大学での研究（B4)
+ユーザの内的コンテキストに応じた推薦に関する研究
+http://gospel.aid.design.kyushu-u.ac.jp/~ushiama/
+  
 ## 作成したもの
 
 ### 機械学習
@@ -66,7 +74,7 @@
 ### Web系
 - <strong>Django, Vue.jsを用いたモダンなウェブデザインサイト</strong>
   - ポートフォリオサイトです
-  - http://140.227.227.5/learn/hello
+  - http://140.227.227.5/learn/hello(停止中)
   
 - <strong>Djangoを用いた英語学習SNSサイト</strong>
   - Bootstrap
@@ -76,7 +84,7 @@
   - 気に入ったユーザはフォローできます
   - 翻訳してほしい記事はリクエストできます
   - Twitter認証で登録できます
-  - URL→http://140.227.227.5/learn/
+  - URL→http://140.227.227.5/learn/(停止中)
   - 紹介動画→https://twitter.com/rcpn_9/status/1099919186753507328
   - 2.→https://twitter.com/rcpn_9/status/1099920097458569216
   
@@ -85,10 +93,10 @@
   - バズったツイートをクローリングして収集し、紹介するサイト
   - LINE画面を参考にしたデザインで使いやすくしました
   - クローラーにはアニーリング法の考え方を採用
-  - http://140.227.224.71/tw/politics/1
+  - http://140.227.224.71/tw/politics/1(停止中)
   
 - <strong>Django, Vue.js, Ajaxを用いたチャット</strong>
-  - http://140.227.227.5/todo/chat
+  - http://140.227.227.5/todo/chat(停止中)
 
 - <strong>SPA(シングルページアプリケーション)を用いたコメント機能付きニュース記事表示サイト</strong>
   - Vue.js, Bootstrap, JSON server
